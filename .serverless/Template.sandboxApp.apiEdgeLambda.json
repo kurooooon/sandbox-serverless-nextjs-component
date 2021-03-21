@@ -1,0 +1,17 @@
+{
+  "name": "hrhadgr-pd0iqmi",
+  "hash": "uUGtU75wfT20E+aLm9DdyS/o2OYXg808gsaMmrQRTME=",
+  "description": "API Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/kurooooon/Documents/git/web/sandbox/serverless-nextjs-component/.serverless_nextjs/api-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::053356367958:role/hrhadgr-atcrr1k"
+  },
+  "arn": "arn:aws:lambda:us-east-1:053356367958:function:hrhadgr-pd0iqmi",
+  "region": "us-east-1"
+}
